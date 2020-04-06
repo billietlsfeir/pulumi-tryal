@@ -1,0 +1,5 @@
+config:
+  gcp:project: pulumi-discover
+  gcp:region: europe-west1
+  gcp:zone: europe-west1-d
+  pulumi:template: gcp-python
